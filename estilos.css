@@ -2,3 +2,18 @@ h1 {
     color: #ff0000;
 
 }
+
+body{
+
+    background-color: #ccffff;
+}
+
+li {
+    font-weight: bold;
+    color: black;
+}
+
+span {
+
+    font-weight: normal;
+}
